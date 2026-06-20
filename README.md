@@ -28,23 +28,6 @@
 | 🎒 单文件便携版 | QuickNotes-1.0.0-Portable.exe | ~97 MB | 双击即可运行，无需安装 |
 | 📦 绿色版 ZIP | QuickNotes-1.0.0-green.zip | ~141 MB | 解压后运行 QuickNotes.exe |
 
-### 🚀 **国内加速下载（推荐）**
-
-**goproxy.cn**
-
-🖱️ 安装版：
-https://goproxy.cn/https://github.com/Billjack1314/my-notes-app/releases/download/v1.0.0/QuickNotes-Setup-1.0.0.exe
-
-🎒 便携版：
-https://goproxy.cn/https://github.com/Billjack1314/my-notes-app/releases/download/v1.0.0/QuickNotes-1.0.0-Portable.exe
-
-📦 绿色版：
-https://goproxy.cn/https://github.com/Billjack1314/my-notes-app/releases/download/v1.0.0/QuickNotes-1.0.0-green.zip
-
-**原始 GitHub 下载（海外用户推荐）：**
-
-https://github.com/Billjack1314/my-notes-app/releases/tag/v1.0.0
-
 ## 🛠️ 开发运行
 
 ```bash
